@@ -1,0 +1,1 @@
+The repository is titled 'Quantum' because RST treats the neural Laplacian as a Hamiltonian operator. We model signal propagation as a Continuous-Time Quantum Walk (CTQW). In this framework, the 6.1\text{s} bottleneck represents the 'decoherence time' where the neural graph loses its ability to maintain a superposition of functional states.

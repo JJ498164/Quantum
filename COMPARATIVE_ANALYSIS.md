@@ -1,0 +1,2 @@
+​IIT (Integrated Information Theory): RST provides the physical boundary conditions for \Phi.
+​GNW (Global Neuronal Workspace): RST predicts the 'Ignition Delay' (6.1\text{s}) when the workspace is fragmented.
